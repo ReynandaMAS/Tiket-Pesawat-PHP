@@ -46,3 +46,7 @@ http://localhost/repositori/index.php
 ## Lisensi
 
 Contoh ini dilisensikan di bawah lisensi MIT. Silakan lihat berkas LICENSE untuk detail lebih lanjut
+
+## Suspended
+
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
